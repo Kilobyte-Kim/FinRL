@@ -21,7 +21,6 @@
 <img align="center" src=figs/logo_transparent_background.png width="45%"/> 
 </div>
 
-Contribution needed for boosting performance of FinRL algorithm.
 
 "*I visualise a time when we will be to robots what dogs are to humans, and I’m rooting for the machines*."   — Claude Shannon
 
